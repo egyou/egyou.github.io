@@ -4,6 +4,6 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
-LINK: [irumedi][irumedi]
+LINK: [Irumedi][irumedi]
 
-[irumedi]: http://passion.induk.ac.kr/irumedi/registrations "Go Irumedi"
+[Irumedi]: http://passion.induk.ac.kr/lecture/ "Lecture Files"
