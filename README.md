@@ -1,3 +1,3 @@
 # egyou.github.io
 
-[googlelink]: https://google.com "Go google"
+LINK: https://google.com "Go google"
